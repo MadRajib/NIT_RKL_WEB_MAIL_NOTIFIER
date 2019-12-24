@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/madrajib/other_folders_F/Projects/esp32/station/build/bootloader",
+    "config_file":        "/home/madrajib/other_folders_F/Projects/esp32/station/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.1-dev-1572-g30372f5a4-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/efuse/Kconfig;/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/esp32/Kconfig;/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/esp_common/Kconfig;/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/log/Kconfig;/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/bootloader/Kconfig.projbuild;/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/esptool_py/Kconfig.projbuild;/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/bootloader", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/bootloader_support", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/efuse", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/esp32", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/esp_common", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/esp_rom", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/esptool_py", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/log", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/bootloader/subproject/main", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/partition_table", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/soc", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/spi_flash", "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/xtensa", "" ]
+}

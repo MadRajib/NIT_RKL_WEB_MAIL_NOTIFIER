@@ -1,0 +1,5 @@
+source "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/madrajib/other_folders_F/Projects/esp32/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/madrajib/other_folders_F/Projects/esp32/station/main/Kconfig.projbuild"
